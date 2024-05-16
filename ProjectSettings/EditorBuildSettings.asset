@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fly Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fly Under.unity
+    guid: 92a51fc89a31bdc4eb3573c4d014024e
+  - enabled: 1
+    path: Assets/Scenes/Fly through moving obstacles.unity
+    guid: 9fe58383afcfa914a9863bee23384499
+  - enabled: 1
+    path: Assets/Scenes/Moving Finish.unity
+    guid: 27254cc90217ab84a9efefec1d63d28a
+  - enabled: 1
+    path: Assets/Scenes/Fly Over FB.unity
+    guid: 03e70bc565e6c744a8fae0e8d5182b36
+  - enabled: 1
+    path: Assets/Scenes/Fly Under Dark.unity
+    guid: c3977e0fe008a47469ee998d8c54bd8c
+  m_configObjects: {}
